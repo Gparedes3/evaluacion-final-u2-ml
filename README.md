@@ -52,3 +52,5 @@ Paste your repository URL in Canvas before the timer expires. The Git commit tim
 - Save the notebook every 10 minutes (`Cmd/Ctrl + S`).
 - Commit at the end of each Part. If something breaks, you still have credit.
 - If Task 2 (the bug fix) takes more than 5 minutes, skip it and return at the end.
+
+
